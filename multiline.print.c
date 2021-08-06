@@ -1,5 +1,5 @@
 #include <stdio.h>
 int main(void){
-  printf("*****\n**|**\n*|.|*\n|...|\n.....");
+  printf("Dennis Ritchie said:\n\"The only way to learn a new programming language is by writing programs in it.\"");
   return 0;
 }
